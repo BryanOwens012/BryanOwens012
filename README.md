@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I recently co-founded a stealth startup.
+
+Before that, as the founding AI engineer at Confida, I built document-evaluation systems that allow AI agents to negotiate legal contracts on customers' behalf.
+
+I'm an AI engineer and full-stack engineer with 5 years building at early-stage startups backed by tier 1 VCs. As the 2nd-8th engineer, I've owned features end-to-end: from talking to users and collaborating with product/design, to shipping to production and iterating based on feedback and metrics. I built core functionalities to manage 1M+ insurance policies, prevented $100k+ churn by rapidly responding to customer concerns, and shipped mobile features to beta waitlists of 1M users.
+
+As a personal project, I built WhichGLP.com, an AI-powered platform that helps patients compare weight-loss drugs using structured data extracted from 30k+ Reddit posts. I shipped it in 2 weeks with full production polish including custom branding, SEO, and legal/compliance.
+
+I also built the official website of the Yale Class of 2021, an AI chatbot for my college reunion (hundreds of users), and a Devin-like ("AI software engineer") agent orchestration system that writes pull requests when you @mention it in Slack.
+
+I sharpened my product-mindedness during my Associate Product Manager internship at Google, where I was 1 of 45 APM interns globally. I wrote PRDs and coordinated cross-functionally to build AI features. As an engineer, I've approached technical decisions through the lens of user problems and business impact.
+
+--> Contact me at hello@bryanowens.dev
