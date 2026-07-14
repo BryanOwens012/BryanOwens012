@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I recently co-founded a stealth startup.
+Co-founder & CTO of a stealth startup.
 
-I'm an AI engineer and full-stack engineer with 5 years building at early-stage startups backed by tier 1 VCs.
+Before that, I was the founding AI engineer at Confida, where I built document-evaluation systems that let AI agents negotiate contracts on customers' behalf.
 
-As the 2nd-8th engineer in the past, I owned features end-to-end: from talking to users and collaborating with product/design, to shipping to production and iterating based on feedback and metrics.
+I'm an AI engineer and full-stack engineer with 5 years at early-stage startups backed by tier 1 VCs. As the 2nd-8th engineer, I owned features end-to-end: talking to users, collaborating with product and design, shipping to production, and iterating on feedback and metrics. Along the way, I built core functionality managing 1M+ insurance policies, prevented $100k+ churn, and shipped mobile features to beta waitlists of 1M users.
 
-I built document-evaluation systems that allow AI agents to negotiate contracts on customers’ behalf, implemented core functionalities to manage 1M+ insurance policies, prevented $100k+ churn by rapidly responding to customer concerns, and shipped mobile features to beta waitlists of 1M.
-
-I sharpened my product-mindedness during my Associate Product Manager internship at Google. As an engineer, I've approached technical decisions through the lens of user problems and business impact.
+In college, I did the Associate Product Manager internship at Google. As an engineer, I've approached technical decisions through the lens of user problems and business impact.
 
 LinkedIn: [bryanowens.dev](https://www.bryanowens.dev)
 
