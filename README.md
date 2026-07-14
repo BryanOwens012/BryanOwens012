@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Co-founder & CTO of a stealth startup.
+I'm the Co-founder & CTO of a stealth startup.
 
 Before that, I was the founding AI engineer at Confida, where I built document-evaluation systems that let AI agents negotiate contracts on customers' behalf.
 
