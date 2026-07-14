@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 I recently co-founded a stealth startup.
 
-I'm an AI engineer and full-stack engineer with 5 years building at early-stage startups backed by tier 1 VCs. As the 2nd-8th engineer, I've owned features end-to-end: from talking to users and collaborating with product/design, to shipping to production and iterating based on feedback and metrics.
+I'm an AI engineer and full-stack engineer with 5 years building at early-stage startups backed by tier 1 VCs.
 
-I built core functionalities to manage 1M+ insurance policies, prevented $100k+ churn by rapidly responding to customer concerns, and shipped mobile features to beta waitlists of 1M.
+As the 2nd-8th engineer, I've owned features end-to-end: from talking to users and collaborating with product/design, to shipping to production and iterating based on feedback and metrics.
+
+I built document-evaluation systems that allow AI agents to negotiate contacts on customers’ behalf, implemented core functionalities to manage 1M+ insurance policies, prevented $100k+ churn by rapidly responding to customer concerns, and shipped mobile features to beta waitlists of 1M.
 
 I sharpened my product-mindedness during my [Associate Product Manager internship at Google](https://www.google.com/about/careers/applications/programs/apm). As an engineer, I've approached technical decisions through the lens of user problems and business impact.
 
